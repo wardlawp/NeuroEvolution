@@ -1,7 +1,7 @@
 # NueroEvolution
 
 
-![View of game being played by AI](https://ibb.co/b6MyTY5)
+![View of game being played by AI](https://i.ibb.co/JcwbV8j/Render-View.png)
 
 
 A simple NueroEvolution demo. Uses naive evolutionary algorithm + DNN to generate an AI controller capable of solving a simple puzzle.
