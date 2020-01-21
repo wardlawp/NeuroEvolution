@@ -1,4 +1,4 @@
-# NueroEvolution
+# NeuroEvolution
 
 
 ![View of game being played by AI](https://i.ibb.co/JcwbV8j/Render-View.png)
