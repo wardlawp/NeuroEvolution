@@ -4,15 +4,15 @@
 ![View of game being played by AI](https://i.ibb.co/JcwbV8j/Render-View.png)
 
 
-A simple NueroEvolution demo. Uses naive evolutionary algorithm + DNN to generate an AI controller capable of solving a simple puzzle.
+A simple NeuroEvolution demo. Uses naive evolutionary algorithm + DNN to generate an AI controller capable of solving a simple puzzle.
 
 ## Building Project
 
 Requires Visual Studio
 
-- Download SFML-2.5.1 and extract to Dependency folder
-- Copy SFML dlls from bin folder to NeuroEvolution\Release and NeuroEvolution\Debug folders
+- Download SFML-2.5.1 and extract to Dependency folder. https://www.sfml-dev.org/download/sfml/2.5.1/
 - Open solution and build project
+- Copy SFML dlls from bin folder to NeuroEvolution\Release and NeuroEvolution\Debug folders
 
 ## Future Work
 
